@@ -1,0 +1,9 @@
+Database name :- connect
+Table Name :- employee
+
+Query :- 
+
+CREATE DATABASE connect
+
+CREATE TABLE employee (fname VARCHAR(25), lname VARCHAR(25), dob DATE, username VARCHAR(25), upassword VARCHAR(10), email VARCHAR(30))
+
